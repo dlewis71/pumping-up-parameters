@@ -2,7 +2,35 @@
 
 Your code goes below.
 
-*/
+*/ //Product
+let x = 3
+
+function multiply(num) {
+  x = num * x
+}
+
+let y = 10
+let z = 5
+let name = "Derrick"
+let greeting = "HEY"
+
+
+function modYBy(num) {
+  y %= num
+}
+
+
+function opposite(num) {
+  z = -num
+}
+let = lastName = "Lewis";
+function makeFullName(lastName){
+  name = name + " " + lastName;
+}
+
+function yellAt(slick){
+  greeting = greeting + ", " + slick + "!";
+}
 
 
 
